@@ -35,9 +35,6 @@ I'm Mostafa, a second-year Computer Engineering student at Zagazig University. I
   <img src="https://github-readme-stats-seven-dun-47.vercel.app/api/top-langs/?username=TheGreatMostafa&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
 </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheGreatMostafa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 </div>
 
 ---
